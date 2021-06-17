@@ -74,7 +74,7 @@
 
     <div class = "container">
         <h2>Leave a comment!!!</h2>
-        <a href="#" class ="cta">Survey</a>
+        <a href="https://forms.gle/mrLutMc8Vo2GWRmF7"target="blank" class ="cta">Survey</a>
     </div>
 
     <footer>
@@ -92,12 +92,30 @@
                 </p>
                 <ul class = "footer links">
                          <li><a href="https://www.facebook.com/aswindev19/"target="blank"><img src="images/iconfinder_Social_Icons-07_2024248.svg" alt="facebook icon "></a></li>
-                         <li><a href="#"><img src="images/iconfinder_25_social_2609558.svg" alt="insta icon "></a></li>
-                         <li><a href="#"><img src="images/iconfinder_twitter_circle_294709.svg" alt="twitter icon "></a></li>
+                         <li><a href="https://www.instagram.com/aswin__devaraj/"target="blank"><img src="images/iconfinder_25_social_2609558.svg" alt="insta icon "></a></li>
+                         <li><a href="https://twitter.com/devaraj_aswin"target="blank"><img src="images/iconfinder_twitter_circle_294709.svg" alt="twitter icon "></a></li>
                 </ul>
             </div>
         </div> 
     </footer>
+
+
+    <script>
+
+        var menu = document.getElementById('menu');
+        var nav = document.getElementById('nav');
+        var exit = document.getElementById('exit');
+
+        menu.addEventListener('click', function(e){
+            nav.classList.toggle('hide-mobile');
+            e.preventDefault();
+        });
+
+        exit.addEventListener('click', function(e){
+            nav.classList.add('hide-mobile');
+            e.preventDefault();
+        });
+    </script>
     
 </body>  
 </html>    
