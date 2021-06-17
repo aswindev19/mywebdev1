@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="259" height="159" viewBox="0 0 259 159">
+  <defs>
+    <filter id="_Never_doubt_the_things_that_you_felt_during_different_stages_of_life._Make_a_little_time_to_recall_it_will_guide_through_your_future_stages_-_vn_Dev_" x="0" y="0" width="259" height="159" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-color="#eb2727"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#_Never_doubt_the_things_that_you_felt_during_different_stages_of_life._Make_a_little_time_to_recall_it_will_guide_through_your_future_stages_-_vn_Dev_)">
+    <text id="_Never_doubt_the_things_that_you_felt_during_different_stages_of_life._Make_a_little_time_to_recall_it_will_guide_through_your_future_stages_-_vn_Dev_2" data-name="&quot;Never doubt the things  that you felt during different stages of life. Make a little time to recall, it will guide through your future stages&quot;           
+                                        -#vn Dev 
+
+ " transform="translate(10 6)" fill="rgba(34,31,31,0.89)" font-size="15" font-family="SegoeUI-SemiboldItalic, Segoe UI" font-weight="600" font-style="italic" opacity="0.71"><tspan x="0" y="16" xml:space="preserve">&quot;Never doubt the things  that you </tspan><tspan x="0" y="36">felt during different stages of life. </tspan><tspan x="0" y="56">Make a little time to recall, it will </tspan><tspan x="0" y="76" xml:space="preserve">guide through your future stages&quot;           </tspan><tspan x="0" y="96" xml:space="preserve">                                        </tspan><tspan y="96" fill="rgba(235,39,39,0.89)">-#vn Dev </tspan><tspan x="0" y="116"></tspan><tspan x="0" y="136"> </tspan></text>
+  </g>
+</svg>

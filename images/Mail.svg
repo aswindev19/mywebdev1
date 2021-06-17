@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="322" height="107" viewBox="0 0 322 107">
+  <defs>
+    <filter id="Mail" x="132" y="36" width="92" height="71" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Mail-2" data-name="Mail" transform="translate(-832.522 -2393)">
+    <text id="Leave_a_comment_" data-name="Leave a comment!!!" transform="translate(832.522 2393)" fill="rgba(34,31,31,0.89)" font-size="15" font-family="SegoeScript-Bold, Segoe Script" font-weight="700"><tspan x="83.843" y="16">Leave a comment!!!</tspan></text>
+    <g id="mail-3" data-name="mail" transform="translate(0 -24)">
+      <g id="Rectangle_15" data-name="Rectangle 15" transform="translate(866.522 2450)" fill="#26bf36" stroke="#707070" stroke-width="1">
+        <rect width="244" height="48" rx="24" stroke="none"/>
+        <rect x="0.5" y="0.5" width="243" height="47" rx="23.5" fill="none"/>
+      </g>
+      <g transform="matrix(1, 0, 0, 1, 832.52, 2417)" filter="url(#Mail)">
+        <text id="Mail-4" data-name="Mail" transform="translate(141 42)" fill="rgba(239,245,240,0.99)" font-size="15" font-family="SegoePrint-Bold, Segoe Print" font-weight="700"><tspan x="0" y="19">Mail</tspan></text>
+      </g>
+    </g>
+  </g>
+</svg>
