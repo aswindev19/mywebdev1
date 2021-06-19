@@ -106,6 +106,13 @@ h1, .subhead {
     width: 14%;
 }
 
+ul.green-links{
+    margin: 0 auto;
+}
+ul.green-links{
+    display: inline-block;
+}
+
 .gray-container {
     background-color: #71E77D;
     padding: 4em 0 2em ;
@@ -397,6 +404,16 @@ nav ul li a:hover{
         padding: 7em 0 2em; 
     }
 
+    .green-container ul {
+        display: flex;
+        align-items: center;        
+    }
+
+    .footer-container ul li {
+        align-items: center;
+        
+    }
+    
     .green-container ul li p, blockquote {
         font-size: 1.3em;
     }
@@ -428,6 +445,22 @@ nav ul li a:hover{
         padding-left: 1em;
         width: auto%;
         
+    }
+
+    nav ul li a{
+        display: block;
+        width: 50%;
+        padding: 1em -5em;
+    }
+
+    nav ul li a:hover{
+        color: whitesmoke;
+        background-color: rgb(65,73,78);
+    }
+
+    .green-container ul li a:hover{
+        color: whitesmoke;
+        background-color: whitesmoke;
     }
 
     
